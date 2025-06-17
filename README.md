@@ -46,5 +46,4 @@ java -cp src InventoryTest
 - Use database for persistent large-scale inventory
 
 ## 🙌 Author
-
-Your Name Here – *Inventory Management System Contributor*
+dd
